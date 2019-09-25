@@ -55,5 +55,6 @@ function getRepositories() {
   }
   
 function  getBranches(el) {
+  const username = el.dataset.username
   
 }
