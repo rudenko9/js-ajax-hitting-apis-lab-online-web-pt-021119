@@ -57,6 +57,7 @@ function getRepositories() {
 function  getBranches(el) {
   const username = el.dataset.username
   const repoName = el.dataset.repository
-  const req = new 
+  const req = new XMLHttpRequest()
+
   
 }
